@@ -1,3 +1,7 @@
-"scripts": {
-  "start": "node index.js" 
+{
+  "name": "my-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  }
 }
