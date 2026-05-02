@@ -1,4 +1,3 @@
-JSON
 "scripts": {
   "start": "node index.js" 
 }
